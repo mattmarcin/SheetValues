@@ -160,7 +160,7 @@ local UPDATE_RATE = 30 -- every X seconds
 local HttpService = game:GetService("HttpService")
 local DatastoreService = game:GetService("DataStoreService")
 local MessagingService = game:GetService("MessagingService")
-local Promise = require(script.Parent.promise)
+local Promise = require(script.Parent.Promise)
 
 local SHA1 = require(script.SHA1)
 local TypeTransformer = require(script.TypeTransformer)
