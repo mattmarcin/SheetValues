@@ -11,3 +11,6 @@ sourcemap.json
 
 # VS Code files
 .vscode/*
+
+#Wally Dependencies
+Packages/
